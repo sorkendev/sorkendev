@@ -1,13 +1,11 @@
 <!-- GitHub Profile README -->
 
-<h1 align="center">hey there 👋</h1>
-<p align="center">i'm a curious developer who builds things with code 💻</p>
+<h1 align="center">Hey there 👋</h1>
+<p align="center">TL;DR: I love open-source projects, have homeLab. Star a repo, 💻</p>
 
 ---
 
 ### 🧠 about me
-- 💼 currently working on: *a bunch of side projects*
-- 🌱 learning: *TypeScript, GraphQL, and design systems*
 - ☕ fueled by: *coffee, code, and lo-fi beats*
 - 🎯 goals: *make cool stuff and keep learning*
 
